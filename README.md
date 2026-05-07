@@ -160,20 +160,6 @@ Open `http://localhost:8000/forecast?state=Alabama&weeks=8` – you will see the
 
 ---
 
-## 🎥 Demo Video
-
-A short (3‑minute) video demonstrating the complete system can be viewed at:  
-**[Link to your video (YouTube / Google Drive)]**  
-*(Replace with your actual link – ensure view access is public or unlisted)*
-
-The video shows:
-
-- Running the notebook (feature engineering, training, model selection).
-- The `models/` folder with saved pickles.
-- Starting the FastAPI server.
-- Making a `curl` request and receiving the forecast JSON.
-
----
 
 ## 🛠️ Technology Stack
 
